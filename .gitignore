@@ -1,0 +1,8 @@
+.venv/
+input_data/
+.env
+
+*.csv
+*.json
+
+.DS_STORE
